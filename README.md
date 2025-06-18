@@ -1,4 +1,6 @@
 # higgs-boson-detector
+https://github.com/user-attachments/assets/f8ca01f2-dce7-4224-9d40-89b34811bdf6
+
 My Higgs Boson Detection with Machine Learning(Kaggle Competition):
 The Higgs boson, theorized in 1964 and discovered in 2012 at the Large Hadron Collider (LHC), explains mass via the Higgs field. Its detection is challenging due to its rarity—about 300 Higgs events per 10^11 collisions and background noise from top quark pairs (tt̄, t is a top quark, t̄ its antiparticle) or W+jets (W boson plus jets). Machine learning (ML) enhances detection by analyzing datasets to separate signal from noise, as in the Kaggle Higgs Boson Detection 2025 challenge using ATLAS simulations.
 Dataset and Important Data Features:
@@ -27,9 +29,3 @@ W+jets: W boson with jets.
 H→WW→ℓνℓν: Higgs to two W bosons (one off-shell, WW), then leptons (ℓ), neutrinos(ν).
 H→bb: Higgs to bottom quark (b), anti-bottom quark (b̄) pair.
 MET:Missing Transverse Energy
-
-
-
-https://github.com/user-attachments/assets/f8ca01f2-dce7-4224-9d40-89b34811bdf6
-
-
